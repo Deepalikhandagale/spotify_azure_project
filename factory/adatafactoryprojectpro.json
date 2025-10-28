@@ -1,0 +1,9 @@
+{
+	"name": "adatafactoryprojectpro",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9454b09a-61e7-4cd9-8837-b69ab0487d8e",
+		"tenantId": "1a15862c-8521-4f8b-aa52-ecbd99bbdc37"
+	}
+}
